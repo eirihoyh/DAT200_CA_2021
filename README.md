@@ -13,4 +13,4 @@ Jusing SVC, LogisticRegression and RandomForestClassifier in different piplines,
 
 ## CA5
 
-Regression problem where I used RandomForestRegressor, a RandomForestRegressor with a PLSRegressionWrapper and XGBoost to train the data. Data trainf for maximizing the r^2 score.
+Regression problem where I used RandomForestRegressor, a RandomForestRegressor with a PLSRegressionWrapper and XGBoost to train the data. Data trained for maximizing the r^2 score.
